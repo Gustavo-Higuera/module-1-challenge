@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+/* Changed all the div tags in the header to nav so that the webpage remains styled correctly */
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -133,6 +135,8 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+
+/* Changed all the syntax from classes, to IDs so that the webpage remains styled correctly */
 
 #search-engine-optimization {
     margin-bottom: 20px;
